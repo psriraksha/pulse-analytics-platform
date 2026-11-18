@@ -2,7 +2,7 @@
  
 A real-time website analytics platform for multiple companies, built with the MERN stack. A company signs up, adds a small tracking script to its website, and watches its traffic appear on a live dashboard.
  
-![Dashboard](screenshots/dashboard.png)
+
  
 ## Features
  
@@ -23,11 +23,13 @@ A real-time website analytics platform for multiple companies, built with the ME
 | Database | MongoDB (aggregation pipelines), Redis |
 | Other | JWT, PDFKit, json2csv |
  
-## More Screenshots
+##  Screenshots
  
-| Login | Top pages, devices, browsers and referrers |
-|---|---|
-| ![Login](screenshots/login.png) | ![Breakdown](screenshots/analytics-breakdown.png) |
+<img width="1857" height="705" alt="Screenshot 2026-11-17 170723" src="https://github.com/user-attachments/assets/6225ce2a-5971-416b-9a52-8bbf430ef73e" />
+<img width="1883" height="811" alt="Screenshot 2026-11-17 170819" src="https://github.com/user-attachments/assets/5df274e3-0abe-409d-8d4e-9b39068c6011" />
+<img width="1873" height="945" alt="Screenshot 2026-11-17 170805" src="https://github.com/user-attachments/assets/6c5a6ff7-3658-4498-86f0-b115c53f3c2e" />
+<img width="1867" height="822" alt="Screenshot 2026-11-17 170749" src="https://github.com/user-attachments/assets/cf54553d-079d-4585-8e58-92550131b4b5" /> 
+
  
 ## How It Works
  
@@ -85,9 +87,5 @@ Open the **Setup** page in the dashboard to get your tracking snippet. To test i
 **P Sriraksha**
 GitHub: [github.com/psriraksha](https://github.com/psriraksha)
 LinkedIn: [linkedin.com/in/p-sriraksha-2a5758379](https://linkedin.com/in/p-sriraksha-2a5758379)
- 
-<img width="1857" height="705" alt="Screenshot 2026-11-17 170723" src="https://github.com/user-attachments/assets/6225ce2a-5971-416b-9a52-8bbf430ef73e" />
-<img width="1883" height="811" alt="Screenshot 2026-11-17 170819" src="https://github.com/user-attachments/assets/5df274e3-0abe-409d-8d4e-9b39068c6011" />
-<img width="1873" height="945" alt="Screenshot 2026-11-17 170805" src="https://github.com/user-attachments/assets/6c5a6ff7-3658-4498-86f0-b115c53f3c2e" />
-<img width="1867" height="822" alt="Screenshot 2026-11-17 170749" src="https://github.com/user-attachments/assets/cf54553d-079d-4585-8e58-92550131b4b5" />
+
 
