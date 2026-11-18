@@ -1,3 +1,5 @@
+
+
 # Pulse — SaaS Analytics Dashboard Platform
 
 A multi-tenant, real-time website analytics platform built on the MERN stack.
@@ -117,3 +119,8 @@ in real time.
 - **The tracking script has no dependencies and uses `sendBeacon`** with a
   `fetch + keepalive` fallback, so analytics events reliably fire even as the
   user navigates away.
+  <img width="1883" height="811" alt="Screenshot 2026-11-17 170819" src="https://github.com/user-attachments/assets/5df274e3-0abe-409d-8d4e-9b39068c6011" />
+<img width="1857" height="705" alt="Screenshot 2026-11-17 170723" src="https://github.com/user-attachments/assets/2802811c-7d3c-476e-9719-664d60d8c78d" />
+<img width="1873" height="945" alt="Screenshot 2026-11-17 170805" src="https://github.com/user-attachments/assets/6c5a6ff7-3658-4498-86f0-b115c53f3c2e" />
+<img width="1867" height="822" alt="Screenshot 2026-11-17 170749" src="https://github.com/user-attachments/assets/cf54553d-079d-4585-8e58-92550131b4b5" />
+<img width="1857" height="705" alt="Screenshot 2026-11-17 170723" src="https://github.com/user-attachments/assets/6225ce2a-5971-416b-9a52-8bbf430ef73e" />
